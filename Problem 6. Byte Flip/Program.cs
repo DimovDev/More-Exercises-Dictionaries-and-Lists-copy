@@ -16,7 +16,8 @@ namespace Problem_6._Byte_Flip
                 Console.Write(System.Convert.ToChar(System.Convert.ToInt32(new string(charArray),16)));
 
             }
-            Console.WriteLine();
+            Console.WriteLine();      
+
         }
     }
 }
